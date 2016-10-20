@@ -1,6 +1,6 @@
 
 # HP1 KD chromosome 2 with bias vector
-python differential_counts_directional.py ../data/test_data/pfal3D7_chr2_w10000_mappability.txt ../data/test_data/pfal3D7_chr2_lengths.tab ../data/test_data/pfal3D7_chr2_lengths_reversed.tab ../data/test_data/RING_chr2_raw.txt ../data/test_data/HP1KD_chr2_raw.txt ../data/test_data/RING_chr2_biases_vec_2.txt ../data/test_data/HP1KD_chr2_biases_vec_2.txt test_output 0.01
+python ../ACCOST/differential_counts_directional.py ../../data/test_data/pfal3D7_chr2_w10000_mappability.txt ../../data/test_data/pfal3D7_chr2_lengths.tab ../../data/test_data/pfal3D7_chr2_lengths_reversed.tab ../../data/test_data/RING_chr2_raw.txt ../../data/test_data/HP1KD_chr2_raw.txt ../../data/test_data/RING_chr2_biases_vec_2.txt ../../data/test_data/HP1KD_chr2_biases_vec_2.txt test_output 0.01
 
 
 # Ring/troph chromosome 2, smaller set
